@@ -16,6 +16,10 @@ Project = Maven
 
 **Lombok**
 
+JPA
+
+MYSQL conector
+
 ### Configurações de propiedade
 Properties = Chave e valor
 YAML	   = Organização em JSON
